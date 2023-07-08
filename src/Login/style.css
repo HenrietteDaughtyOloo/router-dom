@@ -1,0 +1,26 @@
+.form{
+    width: 60%;
+    margin: 0 auto;
+    margin-left: 30%;
+}
+.form>button{
+    border: none;
+    outline: none;
+    background-color: green;
+    border-radius: 5px;
+    color: rgb(50, 64, 75);
+}
+.form > input{
+    border: solid greenyellow 2px;
+    width: 70%;
+    padding: 20px;
+    border-radius: 5px;
+    color: rgb(50, 64, 75);
+}
+.loginBtn{
+    width: 100px;
+    background-color: green;
+    height: 50px;
+    text-align: center;
+    margin-left: 30%;
+}

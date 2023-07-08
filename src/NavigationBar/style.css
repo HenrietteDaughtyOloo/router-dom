@@ -1,0 +1,11 @@
+nav{
+    padding: 20px;
+}
+ul{
+    margin-left: 50%;
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 15%;
+}
